@@ -302,7 +302,7 @@ Transform:
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0.7071068, z: -0.7071068, w: 0}
-  m_LocalPosition: {x: 0, y: 9.9, z: -0.15}
+  m_LocalPosition: {x: 0, y: 10, z: -0.15}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -451,10 +451,11 @@ MonoBehaviour:
   - {fileID: 4087165466403086561, guid: 7c3bfd524eeeed249b2ebb617f3f10d5, type: 3}
   rows: 3
   cols: 4
-  spacingX: 1.2
-  spacingZ: 3
+  spacingX: 3.8
+  spacingZ: 4.4
   tableY: 0
   cardEuler: {x: -90, y: 0, z: 0}
+  cardSize: 3.6
   mismatchDelay: 0.8
   matchDelay: 0.3
 --- !u!4 &2062775741
